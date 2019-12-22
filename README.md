@@ -7,3 +7,6 @@ Effective DevOps with AWS and Terraform
 * secondproject: 
   * stand up a simple ec2 instance using terraform 
   * deploy a nodejs helloworld application running as a daemon
+* thirdproject:
+  * stand up a simple ec2 instance using terraform
+  * configure and deploy nodejs & helloworld application using ansible
