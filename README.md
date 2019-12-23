@@ -10,3 +10,6 @@ Effective DevOps with AWS and Terraform
 * thirdproject:
   * stand up a simple ec2 instance using terraform
   * configure and deploy nodejs & helloworld application using ansible
+* fourthproject
+  * stand up a simple ec2 instance using terraform
+  * using ansible-pull, configure and deploy nodejs & helloworld application
